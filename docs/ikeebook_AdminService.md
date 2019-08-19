@@ -24,3 +24,6 @@ Title: ikeeBook 后台管理系统
 * 建立基本的测试环境
 ### Out of Scope
 * 独立的后端系统架构及部署。
+
+## Current System
+![Diagram](http://yuejoo.github.io/SharedDocuments/CurrentSystem.svg)
