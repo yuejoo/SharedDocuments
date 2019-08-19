@@ -1,4 +1,4 @@
-<!-- toc -->
+{% include toc.html html=content %}
 
 # UseCases
 

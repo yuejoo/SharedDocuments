@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  _ toc.html
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
