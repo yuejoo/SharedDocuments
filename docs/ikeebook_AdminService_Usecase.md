@@ -1,5 +1,3 @@
-{% include toc.html html=content %}
-
 # UseCases
 
 ## 1. Dashboard（基础板块）
