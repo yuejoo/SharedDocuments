@@ -20,10 +20,14 @@ Title: ikeeBook 后台管理系统
 * 基于当前的后端系统架构（Spring+MyBatis）添加后台系统管理功能，无需独立构建独立的后端系统。
 * 设计/建造 对应功能Restful APIs，给前端使用。
 * 修改 当前的数据库 以满足后台管理系统的的业务需求。
+
 ### Good to have
 * 建立基本的测试环境
+
 ### Out of Scope
 * 独立的后端系统架构及部署。
 
 ## Current System
+DragonService 是一个以springBoot+Mybatis为架构，以MySQL和Redis为数据工具的，面向普通用户注册登陆和内容管理查看的内容管理平台。其已经实现了多个对于用户，内容，功能等操作的API。并`预留了管理用户的入口`，以及管理员用户的数据表及数据结构。
+
 ![Diagram](http://yuejoo.github.io/SharedDocuments/CurrentSystem.svg)
