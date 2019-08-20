@@ -1,5 +1,4 @@
 # UseCases
-
 ## 1. Dashboard（基础板块）
 Dashboard是用户管理界面的基本信息统计显示页面。显示必要而简单的信息统计。
 ### Workflow
@@ -91,3 +90,4 @@ TODO：add detailed data model
 
 ### 3.4 一系列显示功能（TODO: need more details.）
 
+{% include toc.html html=text id="Jekyll-TOC" %}
