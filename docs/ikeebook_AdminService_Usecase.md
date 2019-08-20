@@ -1,3 +1,37 @@
+- [UseCases](#usecases)
+  * [1. Dashboard（基础板块）](#1-dashboard------)
+    + [Workflow](#workflow)
+    + [Data Model](#data-model)
+  * [2. 文章板块](#2-----)
+    + [2.1 请求文章管理信息](#21---------)
+      - [Workflow](#workflow-1)
+      - [DataModel （TODO）](#datamodel--todo-)
+    + [2.2 修改文章信息](#22-------)
+      - [2.2.1 将文章（原文）加入人工推荐](#221--------------)
+        * [Workflow](#workflow-2)
+      - [2.2.2 将文章（原文）加入短期推荐](#222--------------)
+        * [Workflow](#workflow-3)
+      - [2.2.3 将文章（原文）加入黑名单](#223-------------)
+        * [Workflow](#workflow-4)
+      - [2.2.4 将文章（原文）删除](#224----------)
+        * [Workflow](#workflow-5)
+      - [2.2.5 修改文章（原文）的备注信息](#225--------------)
+        * [Workflow](#workflow-6)
+      - [2.2.6 and 7 沙盒相关（TODO：明确沙盒是什么）](#226-and-7------todo---------)
+        * [Workflow](#workflow-7)
+  * [3. 用户信息板块](#3-------)
+    + [3.1 请求用户管理信息](#31---------)
+      - [Workflow](#workflow-8)
+      - [DataModel （TODO）](#datamodel--todo--1)
+    + [3.2 给用户添加分组](#32--------)
+      - [Workflow](#workflow-9)
+    + [3.3 将用户加入禁言名单](#33----------)
+      - [Workflow](#workflow-10)
+    + [3.4 一系列显示功能（TODO: need more details.）](#34---------todo--need-more-details-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # UseCases
 ## 1. Dashboard（基础板块）
 Dashboard是用户管理界面的基本信息统计显示页面。显示必要而简单的信息统计。
