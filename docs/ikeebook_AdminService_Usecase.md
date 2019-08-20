@@ -90,4 +90,4 @@ TODO：add detailed data model
 
 ### 3.4 一系列显示功能（TODO: need more details.）
 
-{% include toc.html html=text id="Jekyll-TOC" %}
+{% include toc.html html=text ordered=true %}
