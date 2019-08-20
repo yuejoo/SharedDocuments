@@ -123,5 +123,3 @@ TODO：add detailed data model
 * *管理系统*返回成功信息或错误码。
 
 ### 3.4 一系列显示功能（TODO: need more details.）
-
-{% include toc.html html=text ordered=true %}
