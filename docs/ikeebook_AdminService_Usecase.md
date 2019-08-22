@@ -31,6 +31,15 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+# TODO
+## Missing Data
+### 文章
+* 文章类型（or 推荐类型） （推荐， 短期推荐，文章沙盒， 敏感沙盒，黑名单）（5 类）
+* 管理员备注
+
+### 用户
+* 用户类型 （合作用户，认证作者，认证译者，重点用户，观察用户，黑名单用户，敏感用户）（7 类）
+
 # UseCases
 ## 1. Dashboard（基础板块）
 Dashboard是用户管理界面的基本信息统计显示页面。显示必要而简单的信息统计。
@@ -56,6 +65,7 @@ Dashboard是用户管理界面的基本信息统计显示页面。显示必要�
 * *管理用户*请求**N条**文章信息基于**其他时间段**（例如当天，昨天等）内的搜索。
 * *管理系统*统计并合成文章信息
 * *管理系统*返回文章信息或错误码。
+
 #### DataModel （TODO）
 TODO：add detailed data model
 
@@ -112,6 +122,7 @@ TODO：add detailed data model
 * *管理用户*请求**N条**用户信息基于**其他时间段**（例如当天，昨天等）内的搜索。
 * *管理系统*统计并合成用户信息
 * *管理系统*返回用户信息或错误码。
+
 #### DataModel （TODO）
 TODO：add detailed data model
 
